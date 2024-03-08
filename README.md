@@ -33,6 +33,5 @@ $ git clone https://github.com/joaovictordiass/Convert-Money.git
   align-items: center;">
   <h1 align="center" style="display: flex; flex-direction:row;">
       <img   style="margin: 0 10px;" alt="convert-money-img" src="./assets/img-projeto.png">
----
 
 Made with ♥ by João Victor :wave: [Get in touch!](https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/)
