@@ -4,13 +4,19 @@
     Convert Money &nbsp; :moneybag:
 </h1>
 
+[We are ONLINE, try Now](https://iridescent-fudge-2d625f.netlify.app/) :tada:<br>
 
 <h4 align="center">
   A website for you to be able to convert various types of currencies.
 </h4>
 
-[We are ONLINE, try Now](https://iridescent-fudge-2d625f.netlify.app/) :tada:<br>
-[![Netlify Status](https://app.netlify.com/)](https://app.netlify.com/)
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 ## :information_source: How To Use
 
@@ -27,7 +33,6 @@ $ git clone https://github.com/joaovictordiass/Convert-Money.git
   align-items: center;">
   <h1 align="center" style="display: flex; flex-direction:row;">
       <img   style="margin: 0 10px;" alt="convert-money-img" src="./assets/img-projeto.png"> />
+---
 
-<<<<<<< HEAD
-      Made with ♥ by João Victor :wave: [Get in touch!](https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/)
-=======
+Made with ♥ by João Victor :wave: [Get in touch!](https://www.linkedin.com/in/jo%C3%A3o-victor-dias-4235a52aa/)
