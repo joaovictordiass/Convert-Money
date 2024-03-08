@@ -4,7 +4,7 @@
     Convert Money &nbsp; :moneybag:
 </h1>
 
-[We are ONLINE, try Now](https://iridescent-fudge-2d625f.netlify.app/) :tada:<br>
+[We are ONLINE, try Now](https://joaovictordiass.github.io/Convert-Money/) :tada:<br>
 
 <h4 align="center">
   A website for you to be able to convert various types of currencies.
